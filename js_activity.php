@@ -28,10 +28,14 @@
                 }
             }
         </script>
+
+        <script src="js/date_time.js"></script>
     </head>
 
     <body>
-        <h1>Hello</h1>
+        <h1>Hello</h1> 
+
+        <h2>It is <span id="timeSpan">00:00:00 AM</span> <span id="dateSpan">00/00/0000</span></h2>
 
         <input type="text" id="textinputEl"  placeholder="Enter name"> 
         <button id="btnEl" onclick="replaceText()">Submit</button>
