@@ -29,6 +29,7 @@ var finalDate = dayList[day] + ", " + mm + "/" + dd + "/" + yyyy ;
 var finalTime = hour + ":" + minutes + ":" + seconds + prepand ; 
 
 timeElement.innerHTML = finalTime + "" ;
+dateElement.innerHTML = finalDate + "" ;
 
 
 console.log( "Today is " + dayList[day] + ", " + mm + "/" + dd + "/" + yyyy) ; 

@@ -29,7 +29,7 @@
             }
         </script>
 
-        <script src="js/date_time.js"></script>
+        
     </head>
 
     <body>
@@ -50,4 +50,6 @@
         <br>
         <button onclick="switchLight()">Turn <span id="switchEl">ON</span></button>
     </body>
+
+    <script src="js/date_time.js"></script>
 </html>

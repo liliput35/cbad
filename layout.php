@@ -11,6 +11,7 @@
 
             img { 
                 height: 100% ;
+                width: 50%;
             }
 
             #box1 { 
@@ -22,24 +23,19 @@
             }
 
             #box3 { 
-                clear: left ;
-                float: left ;
+                clear: both;
+                float: left;
             }
 
             #box4 { 
-                clear: right ;
-                float: left ;
+                float: left;
             }
 
-            #img1, #img3 { 
-                float: right ; 
-                width: 50%;
+            #img3, #img1 { 
+                float: right;
             }
 
-            #img2, #img4 { 
-                float: left ; 
-                width: 50%;
-            }
+            
         </style>
     </head>
     <body>
