@@ -14,7 +14,7 @@
     <body>
         <h1>Hello <span id="name-element">Name</span></h1> 
 
-        <input type="text" id="input-element">
+        <input type="text" id="input-element" placeholder="dfasdf">
         <button onclick="replaceText()">Submit</button> 
         <br>
 
