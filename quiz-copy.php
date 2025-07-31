@@ -3,10 +3,13 @@
         <style>
             body { 
                 height: 100vh ;
-                display: flex ; 
-                align-items: center ;
-                justify-content: center ; 
+                padding: 25% ; 
+                padding-top: 50vh ;
                 font-family: sans-serif ; 
+            }
+
+            div { 
+                text-align: center ; 
             }
             div input{ 
                 font-size: 1em ; 
@@ -35,7 +38,7 @@
     <body>
         <?php
             $Message = "Enter your name" ; 
-            $ButtonText = "Greet Me!" ; 
+            $ButtonText = "Greet Me" ; 
         ?>
 
         <div class="container">
