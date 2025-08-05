@@ -34,3 +34,8 @@ button:hover {
     background-color: rgb(68, 121, 68);
     padding: 0.25em 1em;
 }
+
+.container { 
+    margin: 0 auto; 
+    width: 80%;
+}
