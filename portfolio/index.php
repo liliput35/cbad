@@ -13,6 +13,7 @@
     </div>
 
     <?php include('about.php') ?>
+    <?php include('projects.php') ?>
 
 </body>
 

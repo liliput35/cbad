@@ -51,5 +51,19 @@
         .about-text { 
             border-top: solid 1px black ;
         }
+
+        .projects-section h1 { 
+            font-size: 4em ;
+        }
+
+        .projects-section img { 
+            width: 100%;
+        }
+
+        .proj-lang { 
+            font-size: 1em ;
+            font-weight: 500 ; 
+            color: #8b8b8bff ;
+        }
     </style>
 </head>
