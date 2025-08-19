@@ -37,6 +37,19 @@
             text-align: left ;
             background-color: #fff ;
             border: solid 1px black ;
+            width: 100px;
+        }
+
+        .skill-text { 
+            font-size: smaller ;
+        }
+
+        .about-heading { 
+            font-size: 3em ;
+        }
+
+        .about-text { 
+            border-top: solid 1px black ;
         }
     </style>
 </head>

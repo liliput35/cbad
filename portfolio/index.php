@@ -1,21 +1,20 @@
-<?php include('main_header.php') ; ?>
-
+<?php include('main_header.php') ?>
+<?php include('navbar.php') ?>
 
 <body>
-    <section>
-        <div class="container vh-100 d-flex align-items-center">
-            <div class="">
-                <h2 class=" fs-1 fw-semibold">Lorenz Ciocon</h2>
-                <p class="fw-medium text-secondary">20-year-old computer science student</p>
+    
+    <div class="d-flex align-items-end vh-50">
+        <h1 class="fw-bold w-100 display-1 main-hero-heading">lorenz ciocon</h1>
+    </div>
 
-                <nav>
-                    <a href="" class="me-3 text-black-50">Home</a>
-                    <a href="./about.php" class="me-3 text-black-50">About</a>
-                    <a href="" class="me-3 text-black-50">Projects</a>
-                </nav>
-            </div>
-        </div>
-    </section>
+    <div class="container mx-auto">
+        <p class="mt-5 w-25">a 20-year-old computer science student from University of St. Lasalle interested in front-end development</p>
+        <button class="mt-5 px-3 hero-btn">MORE</button>
+    </div>
+
+    <?php include('about.php') ?>
+
 </body>
 
-<?php include('main_footer.php') ; ?>
+
+<?php include('main_footer.php') ?>
