@@ -33,6 +33,10 @@
             font-size: 13vw;
         }
 
+        .hero-parag { 
+            width: 75% ;
+        }
+
         .hero-btn { 
             text-align: left ;
             background-color: #fff ;
@@ -56,14 +60,30 @@
             font-size: 4em ;
         }
 
+        .projects-section a { 
+            text-decoration: underline ;
+        }
+
         .projects-section img { 
             width: 100%;
+            border-bottom: solid 3px black ;
+            padding-bottom: 10px ;
         }
 
         .proj-lang { 
             font-size: 1em ;
             font-weight: 500 ; 
             color: #8b8b8bff ;
+        } 
+
+        @media only screen and (min-width: 768px) { 
+            .hero-parag { 
+                width: 25% ;
+            }
+
+            .projects-section { 
+                height: 100vh ;
+            }
         }
     </style>
 </head>
