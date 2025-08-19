@@ -11,6 +11,11 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
+        * { 
+            margin: 0 ; 
+            padding: 0 ;
+        }
+
         body { 
             font-family: 'Poppins', sans-serif ;
         }
@@ -18,6 +23,20 @@
         a { 
             text-decoration: none ;
             color: black ;
+        }
+
+        .vh-50 {
+            height: 50vh;
+        }
+
+        .main-hero-heading { 
+            font-size: 13vw;
+        }
+
+        .hero-btn { 
+            text-align: left ;
+            background-color: #fff ;
+            border: solid 1px black ;
         }
     </style>
 </head>

@@ -3,10 +3,14 @@
 
 <body>
     
-    <div class="container">
-        <h3>About <span class="">Me</span></h3>
+    <div class="d-flex align-items-end vh-50">
+        <h1 class="fw-bold w-100 display-1 main-hero-heading">lorenz ciocon</h1>
     </div>
 
+    <div class="container mx-auto">
+        <p class="mt-5 w-25">a 20-year-old computer science student from University of St. Lasalle</p>
+        <button class="mt-5 px-3 hero-btn">MORE</button>
+    </div>
 </body>
 
 
