@@ -30,7 +30,7 @@
         }
 
         .main-hero-heading { 
-            font-size: 13vw;
+            font-size: 10vw;
         }
 
         .hero-parag { 
@@ -75,6 +75,10 @@
             font-weight: 500 ; 
             color: #8b8b8bff ;
         } 
+
+        .sidebar-container { 
+            background-color: #f2f2f2 ;
+        }
 
         @media only screen and (min-width: 768px) { 
             .hero-parag { 
