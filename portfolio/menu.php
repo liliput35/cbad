@@ -1,13 +1,22 @@
-<div class="sidebar-container col-sm-3">
+<div class="sidebar-container col-sm-3" id="menuEl">
 
     <div class="container">
         <div class="sidebar-content-cont d-flex flex-column justify-content-between">
             <div class="top-section">
-                <h3 class="fw-semibold">Lorenz Ciocon</h3>
+                <div class="mobile-header">
+                    <h3 class="fw-semibold">Lorenz Ciocon</h3>
+
+                    <div class="burger" id="burgerEl">
+                        <div class="line1"></div>
+                        <div class="line2"></div>
+                        <div class="line3"></div>
+                    </div>
+                </div>
+                
 
                 <ul>
-                    <li class="mt-3"><a href="">Home</a></li>
-                    <li class="mt-3"><a href="">About</a></li>
+                    <li class="mt-3"><a href="index.php">Home</a></li>
+                    <li class="mt-3"><a href="aboutPage.php">About</a></li>
                     <li class="mt-3"><a href="">Projects</a></li>
                 </ul>
             </div>

@@ -15,7 +15,6 @@
                 <button class="mt-5 px-3 hero-btn">MORE</button>
             </div>
 
-            <?php include('about.php') ?>
             <?php include('projects.php') ?>
         </div>
        
