@@ -5,7 +5,7 @@
         <?php include('menu.php') ?>
 
 
-        <div class="content-container col-sm-9 pt-5">
+        <div class="content-container col-sm-9 pt-5 px-0">
             <div class="d-flex align-items-end vh-50">
                 <h1 class="fw-bold w-100 main-hero-heading">lorenz ciocon</h1>
             </div>
