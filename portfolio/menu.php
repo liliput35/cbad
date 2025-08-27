@@ -17,7 +17,7 @@
                 <ul>
                     <li class="mt-3"><a href="index.php">Home</a></li>
                     <li class="mt-3"><a href="aboutPage.php">About</a></li>
-                    <li class="mt-3"><a href="">Projects</a></li>
+                    <li class="mt-3"><a href="projectsPage.php">Projects</a></li>
                 </ul>
             </div>
             

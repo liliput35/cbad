@@ -25,7 +25,7 @@
                     </div>
                 </div>
 
-                <div class="about-info">
+                <div class="about-info" >
                     <div class="credentials">
                         <div class="">
                             <h5>Position</h5>

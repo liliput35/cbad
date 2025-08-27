@@ -1,4 +1,4 @@
-<div class="container projects-section d-flex align-items-center" id="projects-section">
+<div class="container projects-section d-flex align-items-center" id="projects-section" >
     <div class="row">
         <div class="col-md-3">
             <h1 class="fw-semibold">Recent Works</h1>

@@ -200,6 +200,53 @@ a {
     color: red;
 }
 
+/*MAIN PROJECTS PAFGE*/
+
+.projects-container { 
+    width: 90%; 
+    margin: 0 auto;
+}
+
+.projects-text h2 { 
+    font-size: 3.5em; 
+    text-align: center;
+    margin: 1em 0;
+}
+
+.project-card { 
+    background-color: #f2f2f2; 
+    padding: 1em; 
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+
+.project-card h5 { 
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.project-card p { 
+    font-weight: 300;
+}
+
+.project-card img { 
+    width: 100%;
+}
+
+.prog-lang { 
+    display: flex;
+}
+
+.prog-lang li { 
+    background-color: #ffffff; 
+    color: #808080;
+    font-size: 0.8em;
+    padding: 0.25em 0.5em; 
+    border-radius: 10px; 
+    width: fit-content;
+    margin-right: 0.5em;
+}
+
 @media only screen and (min-width: 576px) { 
 
     .burger { 
@@ -269,4 +316,16 @@ a {
         position: fixed;
 
     }
+
+    .projects-text h2 { 
+        text-align: left;
+    }
+
+    .projects-card-holder { 
+        display: grid; 
+        grid-template-columns: 1fr 1fr 1fr; 
+        padding-top: 1em;
+        gap: 1em;
+    }
+
 }
