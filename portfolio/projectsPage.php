@@ -64,22 +64,6 @@
                             </div>
                         </a>
                         
-                        
-
-                        <a href="">
-                            <div class="project-card">
-                                <div class="proj-text">
-                                    <h5>Bust-a-Beat</h5>
-                                    <p>2d Rhythm Based Platformer</p>
-                                    <ul class="prog-lang">
-                                        <li>Unity</li>
-                                        <li>C#</li>
-                                    </ul>
-                                </div>
-
-                                <img src="img/babMockup-min.png" alt="">
-                            </div>
-                        </a>
 
                         <a href="">
                             <div class="project-card">
@@ -96,6 +80,22 @@
                                 <img src="img/websiteMockup.png" alt="">
                             </div>
                         </a> 
+
+                        <a href="">
+                            <div class="project-card">
+                                <div class="proj-text">
+                                    <h5>Lofi Clock</h5>
+                                    <p>Clock Website With Lofi Background</p>
+                                    <ul class="prog-lang">
+                                        <li>HTML</li>
+                                        <li>CSS</li>
+                                        <li>Javascript</li>
+                                    </ul>
+                                </div>
+
+                                <img src="img/lofimockup.png" alt="">
+                            </div>
+                        </a>
 
                     </div>                    
                     
