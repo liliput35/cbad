@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-md-3">
             <h1 class="fw-semibold">Recent Works</h1>
-            <a href="">view all</a>
+            <a href="projectsPage.php">view all</a>
         </div>
         <div class="col-md-9">
             <div class="row project-row">
@@ -13,7 +13,7 @@
                     <p>web-app where users can log movies</p>
                 </div>
                 <div class="col-md-4">
-                    <img src="./img/Toggl-min.png" alt="" class="mb-3">
+                    <img src="./img/Frame 5-min.png" alt="" class="mb-3">
                     <h4>Bust-a-beat</h4>
                     <p class="proj-lang mb-0">Unity, C#</p>
                     <p>web-app where users can log movies</p>

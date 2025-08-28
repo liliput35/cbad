@@ -13,6 +13,7 @@
             <div class="container mx-auto">
                 <p class="mt-5 hero-parag">a 20-year-old computer science student from University of St. Lasalle interested in front-end development</p>
                 <button class="mt-5 px-3 hero-btn">MORE</button>
+                <button class="mt-5 px-3 hero-btn recent-btn">RECENT WORK</button>
             </div>
 
             <?php include('projects.php') ?>

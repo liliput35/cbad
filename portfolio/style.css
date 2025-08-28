@@ -42,23 +42,29 @@ a {
 }
 
 .hero-btn { 
-    text-align: left ;
+    text-align: center ;
     background-color: #fff ;
     border: solid 1px black ;
     width: 100px; 
-    margin-bottom: 200px;
+    margin-bottom: 200px; 
+    transition: 0.5s; 
+    border-radius: 5px;
 }
 
-.skill-text { 
-    font-size: smaller ;
+.recent-btn { 
+    width: 150px;
+    background-color: #333333;
+    color: #f2f2f2;
 }
 
-.about-heading { 
-    font-size: 3em ;
+
+.hero-btn:hover { 
+    background-color: #333333;
+    color: #f2f2f2;
 }
 
-.about-text { 
-    border-top: solid 1px black ;
+.recent-btn:hover { 
+    width: 170px ;
 }
 
 .projects-section h1 { 
@@ -218,6 +224,7 @@ a {
     padding: 1em; 
     border-radius: 10px;
     margin-bottom: 2em;
+    transition: 0.5s;
 }
 
 .project-card h5 { 
@@ -231,6 +238,12 @@ a {
 
 .project-card img { 
     width: 100%;
+    transition: 0.5 ;
+    transform: scale(1);
+}
+
+.projects-card-holder a:hover img { 
+    transform: scale(1.2);
 }
 
 .prog-lang { 
