@@ -25,4 +25,5 @@
 </body>
 
 
+<?php include('footer.php') ?>
 <?php include('main_footer.php') ?>
