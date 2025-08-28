@@ -68,16 +68,16 @@
                         <a href="">
                             <div class="project-card">
                                 <div class="proj-text">
-                                    <h5>Portfolio Website</h5>
-                                    <p>Fully Responsive Showcase Website with Animations</p>
+                                    <h5>Watchlist</h5>
+                                    <p>Movie Logging Web App</p>
                                     <ul class="prog-lang">
-                                        <li>HTML</li>
+                                        <li>React</li>
                                         <li>CSS</li>
                                         <li>Javascript</li>
                                     </ul>
                                 </div>
 
-                                <img src="img/websiteMockup.png" alt="">
+                                <img src="img/watchlistMockup.png" alt="">
                             </div>
                         </a> 
 
