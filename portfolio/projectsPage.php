@@ -13,96 +13,91 @@
 
                 <div class="projects-card-holder">
 
-                    <a href="">
-                        <div class="project-card">
-                            <div class="proj-text">
-                                <h5>Bust-a-Beat</h5>
-                                <p>2d Rhythm Based Platformer</p>
-                                <ul class="prog-lang">
-                                    <li>Unity</li>
-                                    <li>C#</li>
-                                </ul>
-                            </div>
+                    <div class="first-col">
+                        <a href="">
+                            <div class="project-card">
+                                <div class="proj-text">
+                                    <h5>Bust-a-Beat</h5>
+                                    <p>2d Rhythm Based Platformer</p>
+                                    <ul class="prog-lang">
+                                        <li>Unity</li>
+                                        <li>C#</li>
+                                    </ul>
+                                </div>
 
-                            <img src="img/babMockup-min.png" alt="">
-                        </div>
-                    </a>
+                                <img src="img/babMockup-min.png" alt="">
+                            </div>
+                        </a>
+
+                        <a href="">
+                            <div class="project-card">
+                                <div class="proj-text">
+                                    <h5>Portfolio Website</h5>
+                                    <p>Fully Responsive Showcase Website with Animations</p>
+                                    <ul class="prog-lang">
+                                        <li>HTML</li>
+                                        <li>CSS</li>
+                                        <li>Javascript</li>
+                                    </ul>
+                                </div>
+
+                                <img src="img/websiteMockup.png" alt="">
+                            </div>
+                        </a> 
+                    </div>
+
                     
-                    <a href="">
-                        <div class="project-card">
-                            <div class="proj-text">
-                                <h5>Toggl</h5>
-                                <p>Task Tracking Application</p>
-                                <ul class="prog-lang">
-                                    <li>Java</li>
-                                </ul>
-                            </div>
-
-                            <img src="img/togglMockup.png" alt="">
-                        </div>
-                    </a>
                     
-                    <a href="">
-                        <div class="project-card">
-                            <div class="proj-text">
-                                <h5>Portfolio Website</h5>
-                                <p>Fully Responsive Showcase Website with Animations</p>
-                                <ul class="prog-lang">
-                                    <li>HTML</li>
-                                    <li>CSS</li>
-                                    <li>Javascript</li>
-                                </ul>
-                            </div>
-
-                            <img src="img/websiteMockup.png" alt="">
-                        </div>
-                    </a> 
-
-                    <a href="">
-                        <div class="project-card">
-                            <div class="proj-text">
-                                <h5>Bust-a-Beat</h5>
-                                <p>2d Rhythm Based Platformer</p>
-                                <ul class="prog-lang">
-                                    <li>Unity</li>
-                                    <li>C#</li>
-                                </ul>
-                            </div>
-
-                            <img src="img/babMockup-min.png" alt="">
-                        </div>
-                    </a>
-
-                    <a href="">
-                        <div class="project-card">
-                            <div class="proj-text">
-                                <h5>Portfolio Website</h5>
-                                <p>Fully Responsive Showcase Website with Animations</p>
-                                <ul class="prog-lang">
-                                    <li>HTML</li>
-                                    <li>CSS</li>
-                                    <li>Javascript</li>
-                                </ul>
-                            </div>
-
-                            <img src="img/websiteMockup.png" alt="">
-                        </div>
-                    </a> 
-
-                    <a href="">
-                        <div class="project-card">
-                            <div class="proj-text">
-                                <h5>Toggl</h5>
-                                <p>Task Tracking Application</p>
-                                <ul class="prog-lang">
-                                    <li>Java</li>
-                                </ul>
-                            </div>
-
-                            <img src="img/togglMockup.png" alt="">
-                        </div>
-                    </a>
+                    <div class="second-col">
                     
+                        <a href="">
+                            <div class="project-card">
+                                <div class="proj-text">
+                                    <h5>Toggl</h5>
+                                    <p>Task Tracking Application</p>
+                                    <ul class="prog-lang">
+                                        <li>Java</li>
+                                    </ul>
+                                </div>
+
+                                <img src="img/togglMockup.png" alt="">
+                            </div>
+                        </a>
+                        
+                        
+
+                        <a href="">
+                            <div class="project-card">
+                                <div class="proj-text">
+                                    <h5>Bust-a-Beat</h5>
+                                    <p>2d Rhythm Based Platformer</p>
+                                    <ul class="prog-lang">
+                                        <li>Unity</li>
+                                        <li>C#</li>
+                                    </ul>
+                                </div>
+
+                                <img src="img/babMockup-min.png" alt="">
+                            </div>
+                        </a>
+
+                        <a href="">
+                            <div class="project-card">
+                                <div class="proj-text">
+                                    <h5>Portfolio Website</h5>
+                                    <p>Fully Responsive Showcase Website with Animations</p>
+                                    <ul class="prog-lang">
+                                        <li>HTML</li>
+                                        <li>CSS</li>
+                                        <li>Javascript</li>
+                                    </ul>
+                                </div>
+
+                                <img src="img/websiteMockup.png" alt="">
+                            </div>
+                        </a> 
+
+                    </div>                    
                     
                 </div>
             </div>

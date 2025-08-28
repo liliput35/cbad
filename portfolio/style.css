@@ -330,15 +330,32 @@ a {
 
     }
 
+
     .projects-text h2 { 
         text-align: left;
+        margin-top: 3em;
+    }
+
+    .project-card { 
+        margin-bottom: 0;
     }
 
     .projects-card-holder { 
-        display: grid; 
-        grid-template-columns: 1fr 1fr 1fr; 
-        padding-top: 1em;
-        gap: 1em;
+        display: flex; 
+        justify-content: space-between;
+    }
+
+    .projects-card-holder .first-col { 
+        padding-right: 0.5em;
+    }
+
+    .projects-card-holder div div { 
+        margin-bottom: 1em; 
+    }
+
+    .projects-card-holder .second-col { 
+        margin-top: -25%;
+        padding-left: 0.5em;
     }
 
 }
