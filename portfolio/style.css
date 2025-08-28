@@ -82,12 +82,6 @@ a {
     margin-top: 3rem;
 }
 
-.projects-section img { 
-    width: 100%;
-    border-bottom: solid 3px black ;
-    padding-bottom: 10px ;
-}
-
 .proj-lang { 
     font-size: 1em ;
     font-weight: 500 ; 
@@ -180,11 +174,8 @@ a {
 }
 
 .about-page-text img { 
-    width: 50%; 
     max-height: 200px;
-    object-fit: cover;
-    margin: 1em 0;
-    border-radius: 10px;
+    width: 50%;
 }
 
 .main-about-section h2 { 
@@ -292,7 +283,11 @@ a {
 .footer { 
     width: 90%; 
     margin: 0 auto;
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
 }
+
 
 .footer p { 
     font-weight: 600;
@@ -397,6 +392,10 @@ a {
     .projects-card-holder .second-col { 
         margin-top: -25%;
         padding-left: 0.5em;
+    }
+
+    .footer { 
+        display: none;
     }
 
 }

@@ -1,4 +1,4 @@
-<div class="footer d-flex align-items-center justify-content-between py-5">
+<div class="footer py-5">
     <p>Lorenz Ciocon.</p>
 
     <ul class="d-flex align-items-center justify-content-between">

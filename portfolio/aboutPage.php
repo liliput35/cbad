@@ -9,7 +9,7 @@
             <div class="about-page-text">
                 <h2>ABOUT ME</h2>
 
-                <img src="img/ciocon.jpg" alt="">
+                <img src="img/ciocon.jpg" alt="" class="object-fit-cover my-3 rounded-3">
 
                 <p class="about-page-parag">Hi, my name is <span>Lorenz Nicolas Ciocon</span>. I'm currently in third year college studying for a Computer Science degree in Bacolod City, Philippines. I started learning frontend development by myself with the help of youtube and online courses such as the Javascript and React courses on Scrimba. I've also gained experience in C++ and Java Object Oriented Programming through school by making various projects such as 2D games, and other GUI based systems.</p>
 
